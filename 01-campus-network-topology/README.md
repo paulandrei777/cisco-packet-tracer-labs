@@ -1,5 +1,5 @@
 ========================================================================
-SCHOOL CAMPUS NETWORK LAB - PHASE 6 & FULL TOPOLOGY DOCUMENTATION
+SCHOOL CAMPUS NETWORK LAB - FULL TOPOLOGY DOCUMENTATION
 ========================================================================
 
 1. PROJECT OVERVIEW & HIERARCHICAL ARCHITECTURE
